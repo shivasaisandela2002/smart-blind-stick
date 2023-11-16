@@ -13,7 +13,7 @@ To overcome the problem here is the device which is used to detect the any objec
   7. Stick.
   8. Other materials like : glue,tape etc........
 
-  9. # Cicuit Diagram :
+ # Cicuit Diagram :
 ![Smart Blind Stick Circuit Diagram](https://github.com/shivasaisandela2002/smart-blind-stick/assets/114988509/81a802d5-46ed-446c-b5d1-4575022d8b4e)
 
 # Arduino Blind Stick in Action :
